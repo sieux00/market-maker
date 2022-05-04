@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/market-maker/static/css/main.f5c50faf.css",
+    "main.js": "/market-maker/static/js/main.30a57020.js",
+    "static/js/787.02c4a411.chunk.js": "/market-maker/static/js/787.02c4a411.chunk.js",
+    "index.html": "/market-maker/index.html",
+    "main.f5c50faf.css.map": "/market-maker/static/css/main.f5c50faf.css.map",
+    "main.30a57020.js.map": "/market-maker/static/js/main.30a57020.js.map",
+    "787.02c4a411.chunk.js.map": "/market-maker/static/js/787.02c4a411.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c50faf.css",
+    "static/js/main.30a57020.js"
+  ]
+}
